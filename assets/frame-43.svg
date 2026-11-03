@@ -1,0 +1,35 @@
+<svg width="953" height="556" viewBox="0 0 953 556" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="953" height="556" fill="black"/>
+<rect x="65" y="67" width="304" height="402" fill="url(#pattern0_34_31)"/>
+<rect width="242" height="162" fill="url(#pattern1_34_31)"/>
+<rect x="96" y="106" width="242" height="162" fill="url(#pattern2_34_31)"/>
+<rect x="386" y="162" width="242" height="162" fill="url(#pattern3_34_31)"/>
+<rect x="457" y="360" width="242" height="162" fill="url(#pattern4_34_31)"/>
+<rect x="526" y="141" width="242" height="162" fill="url(#pattern5_34_31)"/>
+<rect x="284" y="13" width="242" height="162" fill="url(#pattern6_34_31)"/>
+<defs>
+<pattern id="pattern0_34_31" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_34_31" transform="matrix(0.00132029 0 0 0.000998429 -1.35197 -0.408449)"/>
+</pattern>
+<pattern id="pattern1_34_31" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_34_31" transform="matrix(0.000645505 0 0 0.000964831 -1.26432 -0.288747)"/>
+</pattern>
+<pattern id="pattern2_34_31" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_34_31" transform="matrix(0.000645505 0 0 0.000964831 -1.26432 -0.288747)"/>
+</pattern>
+<pattern id="pattern3_34_31" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_34_31" transform="matrix(0.000645505 0 0 0.000964831 -1.26432 -0.288747)"/>
+</pattern>
+<pattern id="pattern4_34_31" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_34_31" transform="matrix(0.000645505 0 0 0.000964831 -1.26432 -0.288747)"/>
+</pattern>
+<pattern id="pattern5_34_31" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_34_31" transform="matrix(0.000645505 0 0 0.000964831 -1.26432 -0.288747)"/>
+</pattern>
+<pattern id="pattern6_34_31" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_34_31" transform="matrix(0.000645505 0 0 0.000964831 -1.26432 -0.288747)"/>
+</pattern>
+<image id="image0_34_31" width="3508" height="2480" preserveAspectRatio="none" href="image-7fb7fc4c0343d0f2.png"/>
+<image id="image1_34_31" width="3508" height="2480" preserveAspectRatio="none" href="image-0a296ae2077b6e01.png"/>
+</defs>
+</svg>
